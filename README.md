@@ -1,1 +1,1 @@
-<img width="1440" alt="7AUTOMATON background" src="https://user-images.githubusercontent.com/56928485/138935626-7e9db076-0479-41ee-8b3e-d0c3de8a54f9.png">
+<img width="1440" alt="7AUTOMATON background 2" src="https://user-images.githubusercontent.com/56928485/138937417-86a096ee-b374-49da-a245-ee6a2879a029.png">
